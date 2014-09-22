@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ButtonTest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="profile_text">Hello. My name is Celina. </string>
+    <string name="events_text">Welcome to my gallery!</string>
+
+</resources>
